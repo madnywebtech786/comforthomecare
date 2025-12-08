@@ -36,8 +36,9 @@ const Navbar = () => {
         { name: 'Cleaning Services', href: '/services/cleaning-services' },
       ],
     },
-    { name: 'Careers', href: '#careers' },
-    { name: 'Blog', href: '#blog' },
+    { name: 'Careers', href: '/careers' },
+    { name: 'FAQs', href: '/faq' },
+    { name: 'Blog', href: '/#blog' },
     { name: 'Contact Us', href: '#contact' },
     { name: 'CDHCI', href: '#cdhci' },
     { name: 'VIP Program', href: '#vip' },
@@ -85,7 +86,7 @@ const Navbar = () => {
                 <h1 className="text-lg font-bold bg-gradient-to-r from-[#339967] to-[#1495d9] bg-clip-text text-transparent">
                   Comfort Home Care
                 </h1>
-                <p className="text-xs text-gray-600">Calgary & Surrounding Areas</p>
+                <p className="text-xs text-gray-600">Calgary, AB</p>
               </div>
             </motion.div>
 
@@ -140,14 +141,14 @@ const Navbar = () => {
             {/* Phone & CTA */}
             <div className="hidden lg:flex items-center space-x-4">
               <motion.a
-                href="tel:+14035551234"
+                href="tel:+14035602518"
                 whileHover={{ scale: 1.05 }}
                 className="flex items-center space-x-2 text-gray-700 hover:text-[#339967] transition-colors"
               >
                 <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#339967] to-[#1495d9] flex items-center justify-center shadow-lg" style={{ boxShadow: '0 10px 20px rgba(51, 153, 103, 0.3)' }}>
                   <FiPhone className="text-white" />
                 </div>
-                <span className="font-semibold">+1 (403) 555-1234</span>
+                <span className="font-semibold">(403) 560-2518</span>
               </motion.a>
               <motion.button
                 whileHover={{ scale: 1.05 }}
@@ -246,7 +247,7 @@ const Navbar = () => {
                     </div>
                     <div>
                       <h2 className="font-bold bg-gradient-to-r from-[#339967] to-[#1495d9] bg-clip-text text-transparent text-lg">Comfort Home Care</h2>
-                      <p className="text-xs text-gray-600">Calgary & Surrounding Areas</p>
+                      <p className="text-xs text-gray-600">Calgary, AB</p>
                     </div>
                   </div>
                   <motion.button
@@ -317,13 +318,13 @@ const Navbar = () => {
               {/* Drawer Footer */}
               <div className="relative z-10 p-6 space-y-4 border-t border-gray-200 mt-auto">
                 <a
-                  href="tel:+14035551234"
+                  href="tel:+14035602518"
                   className="flex items-center justify-center space-x-3 px-6 py-4 rounded-2xl bg-gradient-to-r from-[#339967] to-[#1495d9] shadow-lg hover:shadow-xl transition-all group"
                 >
                   <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center group-hover:scale-110 transition-transform">
                     <FiPhone className="text-[#339967]" />
                   </div>
-                  <span className="font-bold text-white">+1 (403) 555-1234</span>
+                  <span className="font-bold text-white">(403) 560-2518</span>
                 </a>
                 <button className="w-full px-6 py-4 bg-white rounded-2xl font-bold shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2 border-2 border-gray-200 hover:border-[#339967] bg-gradient-to-r from-[#339967] to-[#1495d9] bg-clip-text text-transparent">
                   <FaHeartbeat className="text-[#339967]" />

@@ -22,8 +22,8 @@ const Contact = () => {
     {
       icon: FaPhone,
       title: 'Phone',
-      content: '+1 (403) 555-1234',
-      link: 'tel:+14035551234',
+      content: '(403) 560-2518',
+      link: 'tel:+14035602518',
       gradient: 'from-[#339967] to-[#1495d9]',
     },
     {
@@ -35,9 +35,9 @@ const Contact = () => {
     },
     {
       icon: FaMapMarkerAlt,
-      title: 'Location',
-      content: 'Calgary & Surrounding Areas',
-      link: null,
+      title: 'Address',
+      content: '495 Savannah Way NE, Calgary, AB T3J 2L1',
+      link: 'https://maps.google.com/?q=495+Savannah+Way+NE+Calgary+AB+T3J+2L1',
       gradient: 'from-[#339967] to-[#1495d9]',
     },
     {

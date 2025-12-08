@@ -1,0 +1,15 @@
+# robots.txt for Comfort Home Care Services
+# https://comforthomecare.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://comforthomecare.com/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
+
+# Disallow specific paths if needed (currently allowing all)
+# Disallow: /admin/
+# Disallow: /api/
