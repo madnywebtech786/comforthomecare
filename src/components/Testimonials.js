@@ -28,7 +28,7 @@ const Testimonials = () => {
     {
       name: 'Robert Chen',
       role: 'Client',
-      content: 'Professional, compassionate, and reliable. The caregivers are not just skilled—they genuinely care. I feel safe and well-cared for in my own home.',
+      content: 'Professional, compassionate, and reliable. The caregivers are not just skilled they genuinely care. I feel safe and well-cared for in my own home.',
       rating: 5,
       gradient: 'from-[#1495d9] to-[#339967]',
       location: 'Airdrie, AB',

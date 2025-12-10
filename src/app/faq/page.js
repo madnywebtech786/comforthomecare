@@ -118,7 +118,7 @@ const FAQ = () => {
       },
       {
         question: 'Who provides specialized medical tasks beyond HCA scope of practice?',
-        answer: 'If medical tasks fall outside the Health Care Aide scope of practice—such as injections, bladder scanning, or administering narcotic medications—Comfort Home Care can provide you with a Registered Nurse (RN) or Licensed Practical Nurse (LPN) at a different hourly rate to ensure safe, professional medical care.',
+        answer: 'If medical tasks fall outside the Health Care Aide scope of practice such as injections, bladder scanning, or administering narcotic medications Comfort Home Care can provide you with a Registered Nurse (RN) or Licensed Practical Nurse (LPN) at a different hourly rate to ensure safe, professional medical care.',
         icon: FaUserNurse,
       },
       {

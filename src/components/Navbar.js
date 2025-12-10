@@ -38,10 +38,10 @@ const Navbar = () => {
     },
     { name: 'Careers', href: '/careers' },
     { name: 'FAQs', href: '/faq' },
+    { name: 'CDHCI', href: '/cdhci' },
+    { name: 'VIP Program', href: '/vip' },
     { name: 'Blog', href: '/#blog' },
     { name: 'Contact Us', href: '#contact' },
-    { name: 'CDHCI', href: '#cdhci' },
-    { name: 'VIP Program', href: '#vip' },
   ];
 
   const toggleDrawer = () => {

@@ -198,7 +198,7 @@ const AboutUs = () => {
                 At Comfort Home Care Services, we believe everyone deserves compassionate, professional care in the comfort of their own home. For over a decade, we've been serving families across Calgary and surrounding areas with dedication and excellence.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Our team of certified healthcare professionals is committed to providing personalized care that respects your dignity, independence, and unique needs. We're not just caregivers—we're partners in your wellness journey.
+                Our team of certified healthcare professionals is committed to providing personalized care that respects your dignity, independence, and unique needs. We're not just caregivers we're partners in your wellness journey.
               </p>
             </motion.div>
 

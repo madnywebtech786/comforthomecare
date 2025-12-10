@@ -470,7 +470,7 @@ const Mission = () => {
               Experience the Difference
             </h2>
             <p className="text-xl sm:text-2xl text-white/90 mb-10 leading-relaxed">
-              Join countless families who trust us with their most precious asset — the well-being of their loved ones
+              Join countless families who trust us with their most precious asset   the well-being of their loved ones
             </p>
             <motion.a
               href="/#contact"

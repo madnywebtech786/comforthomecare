@@ -32,10 +32,10 @@ const Footer = () => {
       { name: "Companionship", href: "#companionship" },
       { name: "Medical Support", href: "#medical-support" },
       { name: "Respite Care", href: "#respite-care" },
-      { name: "VIP Program", href: "#vip" },
+      { name: "VIP Program", href: "/vip" },
     ],
     resources: [
-      { name: "CDHCI", href: "#cdhci" },
+      { name: "CDHCI", href: "/cdhci" },
       { name: "FAQs", href: "/faq" },
       { name: "Contact Us", href: "#contact" },
       { name: "Privacy Policy", href: "#privacy" },
